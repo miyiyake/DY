@@ -12,7 +12,7 @@
      <string>software-package</string>
      <key>url</key>
 <!-- http或者https链接的ipa文件地址 -->
-     <string>https://viptiktok.lanzous.com/iMdNQfntwji</string>
+     <string>https://downfsdx2.downloadtongji.top:9094/i/v6ppi4/c/eyJtIjoiMFB5Y1VzV0pkbVlBQUFGMEFNQ1hBWmdiQlJVTy1DNDlGWExZaFdDM05WVmpFaTRvSkxqbDc0MENCWWFDSXRDMlJyNHBmU2l5Y1pXNm1RU2FiQWJmaFRvblFLblA0eTIxRkNKNEhEUWNZLVlPNElqMkxEWUw5c3NnU0F5c3RkSjlya09HVkZDQlFsYXg5VlhNOUpja1hOVE8tT21QYUlTMURCcXZNTkF1ejJRdXBwQWMtWFEifQ</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -21,7 +21,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>https://ad.infoxgame.com/YinHuOA-H5/images/logo_im.png</string>
+     <string>https://res.cdn.openinstall.io/ipa_icon/v6ppi4/2404250020229430725-1597311906857.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -30,7 +30,7 @@
      <true/>
      <key>url</key>
 <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>https://ad.infoxgame.com/YinHuOA-H5/images/logo_im.png</string>
+     <string>https://res.cdn.openinstall.io/ipa_icon/v6ppi4/2404250020229430725-1597311906857.png</string>
     </dict>
    </array>
    <key>metadata</key>
